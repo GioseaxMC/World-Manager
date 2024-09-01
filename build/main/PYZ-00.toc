@@ -1,5 +1,5 @@
-('C:\\Users\\giose\\Desktop\\python experiments\\! '
- 'morph\\build\\main\\PYZ-00.pyz',
+('C:\\Users\\giose\\Desktop\\python '
+ 'experiments\\morph\\build\\main\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\giose\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\__future__.py',
    'PYMODULE'),
@@ -154,7 +154,7 @@
    'C:\\Users\\giose\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bisect.py',
    'PYMODULE'),
   ('buttons',
-   'C:\\Users\\giose\\Desktop\\python experiments\\! morph\\buttons.py',
+   'C:\\Users\\giose\\Desktop\\python experiments\\morph\\buttons.py',
    'PYMODULE'),
   ('bz2',
    'C:\\Users\\giose\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bz2.py',
@@ -1295,7 +1295,7 @@
    'C:\\Users\\giose\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\response.py',
    'PYMODULE'),
   ('utils',
-   'C:\\Users\\giose\\Desktop\\python experiments\\! morph\\utils.py',
+   'C:\\Users\\giose\\Desktop\\python experiments\\morph\\utils.py',
    'PYMODULE'),
   ('webbrowser',
    'C:\\Users\\giose\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\webbrowser.py',
