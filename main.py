@@ -12,7 +12,10 @@ import winsound
 
 VERSION = "1.0.0"
 
-minecraft_saves = "C:/Users/giose/AppData/Roaming/.minecraft/saves/"
+
+user = os.path.expanduser("~")
+
+minecraft_saves = f"{user}/AppData/Roaming/.minecraft/saves/"
 worlds = list()
 paths = list()
 grey = (150, 150, 150)
